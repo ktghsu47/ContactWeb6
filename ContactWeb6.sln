@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWeb6", "ContactWeb6\ContactWeb6.csproj", "{AC714D32-38A0-4656-854C-BBE055595BB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWeb6Model", "ContactWeb6Model\ContactWeb6Model.csproj", "{0D3031A5-2BFC-4473-A35C-392465E0BDA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC714D32-38A0-4656-854C-BBE055595BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC714D32-38A0-4656-854C-BBE055595BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC714D32-38A0-4656-854C-BBE055595BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3031A5-2BFC-4473-A35C-392465E0BDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3031A5-2BFC-4473-A35C-392465E0BDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3031A5-2BFC-4473-A35C-392465E0BDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3031A5-2BFC-4473-A35C-392465E0BDA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
